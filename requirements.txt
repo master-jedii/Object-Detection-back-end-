@@ -1,0 +1,13 @@
+# Ultralytics requirements
+# Usage: pip install -r requirements.txt
+# python -m pip install -r requirements.txt --upgrade
+# Base ----------------------------------------
+Flask
+opencv-python
+ultralytics
+numpy
+flask-cors
+flask-socketio
+mysql-connector-python
+werkzeug
+flask_jwt_extended
